@@ -6,6 +6,6 @@ public class Class1
 	{
 
 		test
-			verificar
+			verificar2
 	}
 }
